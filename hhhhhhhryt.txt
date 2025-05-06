@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Git GUI Lab</title>
+</head>
+<body>
+ <h1>Welcome to the Git GUI Lab!</h1>
+<p>This is a prace lab for using Git GUI effectively.</p>
+</body>
+</html>
